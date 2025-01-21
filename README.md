@@ -3,21 +3,21 @@
 
 - 🔭 I’m currently not working on **any project**
 
-- 🌱 I’m currently learning **full stack on coursera**
+- 🌱 I’m currently learning **JAVA on coursera**
 
-- 👯 I’m not looking to collaborate with **any one**
+- 👯 I’m looking to collaborate with **any one**
 
-- 🤝 I’m not looking for help with **any project**
+- 🤝 I’m looking for help with **any project**
 
-- 👨‍💻 All of my projects are available at [jhogmony](jhogmony)
+- 👨‍💻 All of my projects are available at [myportfolio](myportfolio)
 
-- 📝 I regularly code using [chatgpt](chatgpt)
+- 📝 I regularly code using [Vim](Vim)
 
-- 💬 Dont Ask me **anything**
+- 💬 Ask me **anything**
 
-- 📫 How to reach me **by walking**
+- 📫 How to reach me **mee.utsav90@gmail.com**
 
-- ⚡ Fun fact **I dont think i am funny**
+- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
